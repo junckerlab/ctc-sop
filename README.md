@@ -1,19 +1,38 @@
 # SOP GuF Small #
 Last update: 2020-08-18, NC
 
-## Abbreviations ##
+Time: 2h to 3h30m (to filter and fix sample)
+
+### Abbreviations ###
 - DW: distilled water
 - Q: flow rate
 
-## Materials ##
-- Outlet needle: 26 Ga blunt steel dispensing needle, beige (McMaster 75165A257)
+### Materials ###
+- 2x Polymer microfilters (8 and 15 um pore diameter, homemade)
+- 2x Cartriges (printed, homemade)
+- 4x 8x2 mm (IDxW) o-rings (_e.g.,_ McMaster 1185N92)
+- 2x ~60 ml~ 50 ml, _thanks BD_, Luer-lock syringes, for reservoir
+- 50 ml Tubes to dilute sample and collect filtrate
+- 1-2x Locking hemostats or other method of clamping inlet tube
+- 4x Luer lock Plug-to-Socket Adapters, for syringe--tube interface (McMaster 51525K427)
+- 3x Outlet needles: 26 Ga blunt steel dispensing needle, beige (McMaster 75165A257)
 - Tubing: 1/32" ID, 3/32" OD (_e.g.,_ McMaster 5233K91)
+  - 2x 18 cm (inlet tubing)
+  - 2x pieces to reach from syringe pump to cartridge
+- 4x Luer lock plug caps, for closing cartridge during fixation steps (McMaster 51525K245)
+  
+### Solutions ###
+- 2% BSA in PBS (4C)
+- PBS 1X
+- 0.05% pluronic in PBS
 
 # CTC CAPTURE BY GRAVITY FILTRATION #
 
 *All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters. Wash the cartridges and o-rings with DW before use.*
 
 ## Coat Filters in BSA ##
+
+_Comment: This step should be part of the fabrication, not the GuF SOP_
 
 - Why: To prevent non-specific adsorption and reduce WBCs sticking to filter
 - Incubate filters overnight in 2% BSA in PBS at 4C
@@ -57,10 +76,20 @@ _I find a pair of hemostats (or whatever you call your locking forceps) the easi
 7. **Backrinse:** disassemble the cartridge stack and assemble the 8 and 15 um filters into individual cartrides. Clamp cartridges onto stands.
 8. Connect two syringes to lengths of tubing long enough to reach the cartridges and load with >3 ml PBS (no air). Connect the tubes to the cartridge outlets and the syringes to the syringe pump.
 9. Infuse 2 ml PBS at 0.5 ml/min. Clamp L1, disconnect the tubing from the outlet, and attach an outlet needle.
-10. Release L1 and allow the system to drain completely. 
+10. Release L1 and allow the system to drain completely. Move on to fixing and staining
+
+----
+## Cleanup ##
+0. Things to discard: reservoir and filtrate (biohazard)
+1. Clean the hardware (blots and nuts) with 70% alcohol. You could bathe them with everything else, especially if they touch blood, just be sure to dry them after to avoid rusting.
+2. Give everything else a bath in 5% bleach. Use a syringe to run bleach solution through the tubing and outlet needles.
+3. Switch the bath to DW. Use a syringe to run DW through the tubing and needles. Inspect tubing and needles for obstructions and discard if compromised.
+4. Set everything to dry.
 
 ----
 # Scratchpad #
+
+Anne's SOP says to use PBS for the backrinse. Why not use 0.05% pluronic? Everything else has been up to this point.
 
 Wouldn't it be way more convinient to do fixation with the system still in the stand? I guess the issue with this is that it prohibits you from placing the system on a rocker during the incubations/rinses. And TBH it isn't that much of a hassle to use the P1000/luer plugs.
 
