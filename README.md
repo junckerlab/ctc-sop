@@ -7,11 +7,10 @@
 ## Materials ##
 - Outlet needle: 26 Ga blunt steel dispensing needle, beige (McMaster 75165A257)
 - Tubing: 1/32" ID, 3/32" OD (_e.g.,_ McMaster 5233K91)
-- All solutions which are not the sample should be filtered in order to limit dust.
 
 # CTC CAPTURE BY GRAVITY FILTRATION #
 
-*All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters.*
+*All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters. Wash the cartridges and o-rings with DW before use.*
 
 ## Coat Filters in BSA ##
 
@@ -32,6 +31,8 @@ _I've found it preferable to load the bolts from the top to the bottom of the ca
 7. Insert the bolts from top to bottom. Attach nuts to the bottom and tighten the assembly. This can be done without any tools (_i.e.,_ pinching the bolt and tightening the nut) and in my experience finger-tight is tight enough to run filtration without leaking.
 
 ## Platform setup and preload ##
+
+![Schematic](Schematic.png)
 
 1. Connect the dispensing needle to the outlet and clamp the cartridge onto a retort stand.
 2. Remove the plunger from a 60 ml syringe to create a reservoir and connect it to the L1 tube (18 cm). Loosely clamp above the catridge
