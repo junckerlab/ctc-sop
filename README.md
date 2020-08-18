@@ -1,4 +1,5 @@
 # SOP GuF Small #
+Last update: 2020-08-18, NC
 
 ## Abbreviations ##
 - DW: distilled water
