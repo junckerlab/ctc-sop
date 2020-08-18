@@ -33,7 +33,7 @@ _I've found it preferable to load the bolts from the top to the bottom of the ca
 
 ## Platform setup and preload ##
 
-![Schematic](Schematic.png)
+![Schematic of the platform setup. Mostly here to show what "L1" in the text is refering to.](Schematic.png)
 
 1. Connect the dispensing needle to the outlet and clamp the cartridge onto a retort stand.
 2. Remove the plunger from a 60 ml syringe to create a reservoir and connect it to the L1 tube (18 cm). Loosely clamp above the catridge
