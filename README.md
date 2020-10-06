@@ -15,7 +15,7 @@ Time: 2h to 3h30m (to filter and fix sample)
 - 50 ml Tubes to dilute sample and collect filtrate
 - 1-2x Locking hemostats or other method of clamping inlet tube
 - 4x Luer lock Plug-to-Socket Adapters, for syringe--tube interface (McMaster 51525K427)
-- 3x Outlet needles: 26 Ga blunt steel dispensing needle, beige (McMaster 75165A257)
+- 3x Outlet needles: 26 Ga blunt steel dispensing needle, yellow (McMaster 75165A257)
 - Tubing: 1/32" ID, 3/32" OD (_e.g.,_ McMaster 5233K91)
   - 2x 18 cm (inlet tubing)
   - 2x pieces to reach from syringe pump to cartridge
@@ -70,13 +70,14 @@ _I find a pair of hemostats (or whatever you call your locking forceps) the easi
 1. Dilute the blood sample 1:6 with 0.05% pluronic/PBS and gently mix by inversion or light vortexing.
 2. Pour the sample into the reservoir and release L1. You should see the sample begin to flow into the cartridge and the color of the filtrate will gradually become more red in color.
 3. You can expect to see some minor phase separation in the reservoir over time. When you notice this you can gently remix the reservoir using a P1000. It would probably be prudent to clamp L1 when you do this, but I won't tell if you don't.
-4. Allow the sample to filter until the level reaches the 0 to 2 ml mark on the reservoir and clamp L1. If backrinsing, you can prepare the pump and preload your syringes during this time.
-5. **Forward rinse:** add 5 ml of 0.05% pluronic and release L1. If you are **not** doing any backrinsing, repeat steps 4-5 two more times (3 forward rinses total). 
-6. Allow the system to drain completely (no fluid visible in L1, nothing coming out of outlet). If not doing backrinse, remove the outlet needle (I use serrated forceps to hold the fluidic interface and then turn the needle with my fingers), and move onto fixation/staining.  
-7. **Backrinse:** disassemble the cartridge stack and assemble the 8 and 15 um filters into individual cartrides. Clamp cartridges onto stands.
+4. Allow the sample to filter until the level reaches the 0 to 2 ml mark on the reservoir and clamp L1. You can prepare the pump and preload your syringes for the backrinse during this time.
+6. Allow the system to drain completely (no fluid visible in L1, nothing coming out of outlet). Remove the outlet needle (I use serrated forceps to hold the fluidic interface and then turn the needle with my fingers).
+7. **Backrinse: (2 x 2 ml)** disassemble the cartridge stack and assemble the 8 and 15 um filters into individual cartrides. Clamp cartridges onto stands.
 8. Connect two syringes to lengths of tubing long enough to reach the cartridges and load with >3 ml PBS (no air). Connect the tubes to the cartridge outlets and the syringes to the syringe pump.
 9. Infuse 2 ml PBS at 0.5 ml/min. Clamp L1, disconnect the tubing from the outlet, and attach an outlet needle.
-10. Release L1 and allow the system to drain completely. Move on to fixing and staining
+10. Release L1 and allow the system to drain completely. 
+11. Repeat the backrinse a second time (so 2 backrinses of 2 ml each in total).
+12. Move on to fixing and staining
 
 ----
 ## Cleanup ##
