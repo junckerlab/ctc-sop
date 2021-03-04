@@ -1,5 +1,5 @@
 # SOP GuF Small #
-Last update: 2020-08-18, NC
+Last update: 2021-03-04, NC
 
 Time: 2h to 3h30m (to filter and fix sample)
 
@@ -13,7 +13,7 @@ Time: 2h to 3h30m (to filter and fix sample)
 - 4x 8x2 mm (IDxW) o-rings (_e.g.,_ McMaster 1185N92)
 - 2x ~60 ml~ 50 ml, _thanks BD_, Luer-lock syringes, for reservoir
 - 50 ml Tubes to dilute sample and collect filtrate
-- 1-2x Locking hemostats or other method of clamping inlet tube
+- 1-2x Locking hemostats or tube clamps (e.g, McMaster 5031K11)
 - 4x Luer lock Plug-to-Socket Adapters, for syringe--tube interface (McMaster 51525K427)
 - 3x Outlet needles: 26 Ga blunt steel dispensing needle, yellow (McMaster 75165A257)
 - Tubing: 1/32" ID, 3/32" OD (_e.g.,_ McMaster 5233K91)
@@ -25,10 +25,23 @@ Time: 2h to 3h30m (to filter and fix sample)
 - 2% BSA in PBS (4C)
 - PBS 1X
 - 0.05% pluronic in PBS
+- 4% PFA for fixation
+
+#### For Permeabilization and Blocking ####
+- 0.2% Triton-X (filtered, store 4C)
+- Blocking buffer (filtered, store 4C):
+  - 0.1% Tween-20, 1% BSA, in PBS 
+  - _for 250 ml: 2.5 g BSA + 250 ul Tween + 250 ml PBS_
 
 # CTC CAPTURE BY GRAVITY FILTRATION #
 
 *All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters. Wash the cartridges and o-rings with DW before use.*
+
+### Variations ###
+
+- The backrinse step can be substituted with a forward rinse of 5 ml x2 PBS.
+This decreases the chances of losing small CTCs during the rinse at the cost of
+lowered purity (more WBCs).
 
 ## Coat Filters in BSA ##
 
@@ -52,7 +65,8 @@ _I've found it preferable to load the bolts from the top to the bottom of the ca
 
 ## Platform setup and preload ##
 
-![Schematic of the platform setup. Mostly here to show what "L1" in the text is refering to.](Schematic.png)
+![Schematic of the platform setup. Mostly here to show what "L1" in the text is
+refering to.](im/Schematic.png)
 
 1. Connect the dispensing needle to the outlet and clamp the cartridge onto a retort stand.
 2. Remove the plunger from a 60 ml syringe to create a reservoir and connect it to the L1 tube (18 cm). Loosely clamp above the catridge
@@ -65,7 +79,9 @@ _I've found it preferable to load the bolts from the top to the bottom of the ca
 
 ## Sample filtration ##
 
-_I find a pair of hemostats (or whatever you call your locking forceps) the easiest way to release/clamp L1. Runtime is dependent on the volume of the sample as well as how much stuff has collected on the filter. I would expect anywhere from_
+_I find a pair of hemostats or plastic tube clamps to release/clamp L1. Runtime is dependent on the volume of the
+sample as well as how much stuff has collected on the filter. I would expect
+anywhere from 90 to 180 minutes_
 
 1. Dilute the blood sample 1:6 with 0.05% pluronic/PBS and gently mix by inversion or light vortexing.
 2. Pour the sample into the reservoir and release L1. You should see the sample begin to flow into the cartridge and the color of the filtrate will gradually become more red in color.
@@ -77,7 +93,28 @@ _I find a pair of hemostats (or whatever you call your locking forceps) the easi
 9. Infuse 2 ml PBS at 0.5 ml/min. Clamp L1, disconnect the tubing from the outlet, and attach an outlet needle.
 10. Release L1 and allow the system to drain completely. 
 11. Repeat the backrinse a second time (so 2 backrinses of 2 ml each in total).
-12. Move on to fixing and staining
+12. When the reservoir is low, add another 1-2 ml PBS. Allow to nearly drain and clamp L1. The extra PBS is to ensure that all of the backrinse fluid has flowed back into the cartridge before swapping out the reservoir for fixation.
+
+## Fixation ##
+
+Fixation should be performed ASAP after filtration.
+
+<img src="im/fixation_setup.jpg" height="600" />
+
+1. **Change reservoir:** With L1 clamped, end friendship with dirty reservoir and connect the LL fitting to a clean 10 ml syringe (your new reservoir). Add a small amount of PBS and briefly unclamp L1 to check that flow resumes normally. You can swap in a fresh dispensing needle if you believe it to be partially clogged --- just prefill the needle with PBS before and confirm that flow resumes after. 
+2. **Move** the setup to a fume hood. Bring your PFA, a syringe plus dispensing needle to get it out of it's ampoule, PDS, and a glass dish to collect filtrate waste. 
+3. **Prepare PFA**. Unclamp L1; wait for PBS in reservoir to reach a minimal volume; add first ~ 0.5 ml PFA and start timer, then add another 1.5 ml (or more) as the reservoir runs low. 
+4. **Incubate 10m**, stopping flow when the after at least 1 ml of PFA has run through.
+5. **Rinse:** Fill reservoir with PBS and unclamp. Rinse with PBS for at 15 minutes, using at least 5 ml PBS. 
+
+Fixed filters can be stored in PBS at 4C until they are stained. Fixation does not crosslink cells to the filter membrane; it is ideal to store them inside of a cartridge so that the solution can afterwards be pulled down through the filter without risking the loss of anything captured.
+
+## Permeabilization and Blocking ##
+
+1. **Permeabilization:** Incubate 5m with 0.2% Triton-X, flow at least 1 ml.
+2. **Rinse** 15m with PBS, flow at least 5 ml.
+3. **Blocking:** Incubate with blocking buffer for 2h RT or overnight at 4C, flow at least 2 ml of BB. BB should be aspirated from outlet just before staining.
+
 
 ----
 ## Cleanup ##
@@ -86,12 +123,5 @@ _I find a pair of hemostats (or whatever you call your locking forceps) the easi
 2. Give everything else a bath in 5% bleach. Use a syringe to run bleach solution through the tubing and outlet needles.
 3. Switch the bath to DW. Use a syringe to run DW through the tubing and needles. Inspect tubing and needles for obstructions and discard if compromised.
 4. Set everything to dry.
-
-----
-# Scratchpad #
-
-Anne's SOP says to use PBS for the backrinse. Why not use 0.05% pluronic? Everything else has been up to this point.
-
-Wouldn't it be way more convinient to do fixation with the system still in the stand? I guess the issue with this is that it prohibits you from placing the system on a rocker during the incubations/rinses. And TBH it isn't that much of a hassle to use the P1000/luer plugs.
 
 
