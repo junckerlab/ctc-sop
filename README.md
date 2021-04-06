@@ -1,7 +1,14 @@
-# SOP GuF Small #
-Last update: 2021-03-04, NC
+# CTC CAPTURE BY GRAVITY FILTRATION #
+Last update: 2021-04-05, NC
 
 Time: 2h to 3h30m (to filter and fix sample)
+
+1. [Assemble cartridge and incubate with BSA](#Assemble-cartridge-and-incubate-with-BSA)
+2. [Platform setup and preload](#Platform-setup-and-preload)
+3. [Sample filtration](#Sample-filtration)
+4. [Fixation](#Fixation)
+5. [Permeabilization and Blocking](#Permeabilization-and-Blocking)
+6. [Cleanup](#Cleanup)
 
 ### Abbreviations ###
 - DW: distilled water
@@ -22,6 +29,9 @@ Time: 2h to 3h30m (to filter and fix sample)
 - 4x Luer lock plug caps, for closing cartridge during fixation steps (McMaster 51525K245)
   
 ### Solutions ###
+
+*All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters. Wash the cartridges and o-rings with DW before use.*
+
 - 2% BSA in PBS (4C)
 - PBS 1X
 - 0.05% pluronic in PBS
@@ -33,27 +43,18 @@ Time: 2h to 3h30m (to filter and fix sample)
   - 0.1% Tween-20, 1% BSA, in PBS 
   - _for 250 ml: 2.5 g BSA + 250 ul Tween + 250 ml PBS_
 
-# CTC CAPTURE BY GRAVITY FILTRATION #
-
-*All solutions should be filtered/prepared using filtered PBS in order to reduce dust on the filters. Wash the cartridges and o-rings with DW before use.*
-
 ### Variations ###
 
 - The backrinse step can be substituted with a forward rinse of 5 ml x2 PBS.
 This decreases the chances of losing small CTCs during the rinse at the cost of
 lowered purity (more WBCs).
 
-## Coat Filters in BSA ##
+# At Lab the day before #
 
-_Comment: This step should be part of the fabrication, not the GuF SOP_
-
-- Why: To prevent non-specific adsorption and reduce WBCs sticking to filter
-- Incubate filters overnight in 2% BSA in PBS at 4C
-- Filters may be loaded into the cartridge directly from their BSA bath. Filters not to be used immediately are placed be in a dish or well plate and stored until use.
-
-## Loading filter on cartridge ##
+## Assemble cartridge and incubate with BSA ##
 
 _I've found it preferable to load the bolts from the top to the bottom of the cartridge as this results in the screws extending past the outlet and they can act as legs to stand on during the fixation and permiabilization steps._
+_BSA incubation is to prevent non-specific adsorption and reduce WBCs sticking to filter_
 
 1. Place the first o ring inside the notch
 2. Add the 8um filter
@@ -61,12 +62,17 @@ _I've found it preferable to load the bolts from the top to the bottom of the ca
 4. Repeat [1-3] with the stacking adapter and the 15um filter
 5. Place the stacking assembly onto the base assembly, ensuring that their holes line up and are not obstructed by o rings
 6. Place the top of the cartridge, aligning the o ring on top of the 15um filter with the notch. It may be easier to insert the bolts through the top cartridge before doing this.
-7. Insert the bolts from top to bottom. Attach nuts to the bottom and tighten the assembly. This can be done without any tools (_i.e.,_ pinching the bolt and tightening the nut) and in my experience finger-tight is tight enough to run filtration without leaking.
+7. Insert the bolts from top to bottom. Lightly thread each standoff or net and progressively tighten the assembly. This can be done without any tools (_i.e.,_ pinching the bolt and tightening the nut) and in my experience finger-tight is tight enough to run filtration without leaking.
+8. Fill the cartridge with 2% BSA in PBS. Connect a syringe to the cart inlet push BSA throug until there is no air in the solution leaving the outlet (having a piece of tubing connected to the outlet helps visualize this). Plug the outlet, remove syringe, and plug inlet. 
+9. Incubate at 4C overnight. Alternatively you could incubate for 2 hours at RT
+
+![Cartridge with various outlet needles and luer lock plugs](im/cart_with_io_plugs.png)
+
+# At the clinic or sample site #
 
 ## Platform setup and preload ##
 
-![Schematic of the platform setup. Mostly here to show what "L1" in the text is
-refering to.](im/Schematic.png)
+![Schematic of the platform setup. Mostly here to show what "L1" in the text is refering to.](im/Schematic.png)
 
 1. Connect the dispensing needle to the outlet and clamp the cartridge onto a retort stand.
 2. Remove the plunger from a 60 ml syringe to create a reservoir and connect it to the L1 tube (18 cm). Loosely clamp above the catridge
